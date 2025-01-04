@@ -12,7 +12,7 @@ I'm assuming that you are familiar with Python. Jupyter notebooks, and the basic
 
 ### Installation
 
-The instructions are for a Linux environment, as that is I use.
+The instructions are for a Linux environment, as that is what I use.
 
 You'll need a recent installation of Python (3.10+).
 
