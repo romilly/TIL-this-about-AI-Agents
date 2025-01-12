@@ -1,18 +1,12 @@
 ## Today I learned this about AI Agents
 
-I'm exploring the world of AI agents.
-
-As I find interesting open source Python code that's relevant to AI agents,
-I'll publish it here.
-
-I'll be adding simple agent implementations and useful tool functions that you can call
-from any tool-enabled LLM. My focus is on code that will run locally using Ollama.
-
+Here is the code described in [this article on medium](https://medium.com/@romillyc/building-a-minimalist-ai-agent-2053e26dabba?source=friends_link&sk=226f9b2a1e64b608394aaa9cc9f93d5d).
+That's a friend link, so you can read it even if you're not a member.
 I'm assuming that you are familiar with Python. Jupyter notebooks, and the basics of LLMs.
 
 ### Installation
 
-The instructions are for a Linux environment, as that is what I use.
+The instructions are for a Linux environment, as that is what I'm used to.
 
 You'll need a recent installation of Python (3.10+).
 
@@ -23,13 +17,12 @@ pip install notebook
 pip install -r requirements.txt
 ```
 
-Once ollama is installed, you will need to pull the models that are used in the notebook(s)
-that you want to run.
+Once ollama is installed, you will need to pull the model phi4 used in the notebook.
 
 ### LICENCES
 
 My code is released under the MIT licence.
-Some notebooks are derived from the work of others, in which case they will specify
+The notebooks is derived from the work of others; it specifies
 the licence under which the code was released.
 
 ### How to contribute
